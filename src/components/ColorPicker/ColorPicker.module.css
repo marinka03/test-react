@@ -1,0 +1,20 @@
+.ColorPicker__option {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 500px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ColorPicker__color {
+    width: 55px;
+    height: 55px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+/* .ColorPicker__activeBtn {
+    box-shadow: none;
+} */
+/* transform: scale(1.15); */

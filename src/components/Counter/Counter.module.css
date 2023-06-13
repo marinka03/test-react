@@ -1,0 +1,12 @@
+.counter{
+    width: 450px;
+    height: 300px;
+    border: 2px solid grey;
+}
+.Counter__value {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0 30px;
+    font-size: 70px;
+}
